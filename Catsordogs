@@ -1,0 +1,20 @@
+puts "Do you like cats? Enter yes or no"
+  cats_or_dogs = gets.chomp
+
+def cats_or_dogs
+  cats_or_dogs = yes, no
+  
+  if gets.chomp == yes
+    return true
+  puts "Ken does too!"
+  
+end
+  
+  if gets.chomp == no
+    return false
+  puts "Dogs are better!"
+  
+end
+end
+
+
