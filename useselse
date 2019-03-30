@@ -1,0 +1,13 @@
+def cats_or_dogs(string)
+  cats_or_dogs = yes, no
+
+  if cats_or_dogs == yes
+    return true
+  else
+    return false
+  end
+end
+
+def cats_or_dogs(string)
+  return ! cats_or_dogs
+end
